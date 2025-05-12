@@ -31,7 +31,7 @@ The Trust Point System creates the validation architecture necessary for The Bre
 
 ### 2.1 Federation Model
 
-The architecture follows a federated design connecting individuals, communities, and domains:
+The architecture follows a federated design connecting individuals, communities, and domains including but not limited to:
 
 - **Individual Level**: Personal trust point allocation
 - **Community Level**: Local validators and governance
