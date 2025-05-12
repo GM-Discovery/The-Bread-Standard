@@ -20,10 +20,10 @@ Documentation, images, and other content are available under CC BY-SA 4.0, allow
 Complete license texts can be found in the licenses directory.
 
 ## Software Components
-All software, including the governance application code and related tools, are licensed under the GNU Affero General Public License v3.0 (AGPL-3.0). See [LICENSE](LICENSE) for the full text.
+All software, including the governance application code and related tools, are licensed under the GNU Affero General Public License v3.0 (AGPL-3.0).
 
 ## Constitutional Framework
-The Bread Standard Constitution text and related framework documentation are licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0). See [CONSTITUTION_LICENSE.md](CONSTITUTION_LICENSE.md) for details.
+The Bread Standard Constitution text and related framework documentation are licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
 
 License Governance
 Changes to licensing terms, including adoption of future versions of either license, will be determined through the project's governance process as outlined in GOVERNANCE.md.
