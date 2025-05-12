@@ -14,6 +14,7 @@ Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) - For d
 What this means:
 
 Software code is protected under AGPL-3.0, requiring that source code be made available when the software is distributed or served over a network
+
 Documentation, images, and other content are available under CC BY-SA 4.0, allowing sharing and adaptation with attribution and ShareAlike terms
 
 Complete license texts can be found in the licenses directory.
@@ -24,20 +25,20 @@ All software, including the governance application code and related tools, are l
 ## Constitutional Framework
 The Bread Standard Constitution text and related framework documentation are licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0). See [CONSTITUTION_LICENSE.md](CONSTITUTION_LICENSE.md) for details.
 
-## File-specific Licensing
-- Files in `/src/` and `/app/` directories: AGPL-3.0
-- Files in `/constitution/` and `/documentation/`: CC BY-SA 4.0
-- README.md and other general project documentation: CC BY-SA 4.0
-
-When in doubt, refer to the license header in each specific file.
-
 License Governance
 Changes to licensing terms, including adoption of future versions of either license, will be determined through the project's governance process as outlined in GOVERNANCE.md.
+
+
 Installation
 [Installation instructions]
+
 Usage
 [Usage examples]
+
 Contributing
 [Contribution guidelines]
+
+
 Contact
 [Contact information]
+https://discord.gg/YVtWjvxwpf
