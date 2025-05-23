@@ -3,11 +3,7 @@
 **One Step Better: A Post-Hunger, Post-Extraction Society**
 
 Welcome to the public repository for **The Bread Standard Constitution** — a full-spectrum framework for democratic participation, regenerative economics, and inclusive governance rooted in dignity, sustainability, and shared stewardship.
-
-This is not a manifesto. It's a blueprint for transition. A constitution for the commons.
-
 ---
-
 ## 🧭 Core Premise
 
 We live in systems that fail to recognize our inherent worth.
