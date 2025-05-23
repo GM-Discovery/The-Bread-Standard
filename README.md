@@ -1,44 +1,83 @@
-# The-Bread-Standard
-One Step Better: A Post-Hunger World
 
-This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
-To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/ or
-send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+# 🌾 The Bread Standard Constitution
+**One Step Better: A Post-Hunger, Post-Extraction Society**
 
-Licensing
-This project is available under dual licensing:
+Welcome to the public repository for **The Bread Standard Constitution** — a full-spectrum framework for democratic participation, regenerative economics, and inclusive governance rooted in dignity, sustainability, and shared stewardship.
 
-GNU Affero General Public License v3.0 (AGPL-3.0) - For the software components
-Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) - For documentation, media, and other non-software content
+This is not a manifesto. It's a blueprint for transition. A constitution for the commons.
 
-What this means:
+---
 
-Software code is protected under AGPL-3.0, requiring that source code be made available when the software is distributed or served over a network
+## 🧭 Core Premise
 
-Documentation, images, and other content are available under CC BY-SA 4.0, allowing sharing and adaptation with attribution and ShareAlike terms
+We live in systems that fail to recognize our inherent worth.
 
-Complete license texts can be found in the licenses directory.
+**The Bread Standard** changes that by aligning governance and economics with 8 core values:
 
-## Software Components
-All software, including the governance application code and related tools, are licensed under the GNU Affero General Public License v3.0 (AGPL-3.0).
+🫶 Love | 🔍 Truth | ⚖️ Equity | 🧠 Well-being | 🌱 Stewardship | 🧩 Community | 💡 Innovation | 🕊️ Freedom
 
-## Constitutional Framework
-The Bread Standard Constitution text and related framework documentation are licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
+At the heart of this framework is a **Trust Point System** and a **Bread-Based Economic Anchor** that redefines value through human needs rather than speculative markets.
 
-License Governance
-Changes to licensing terms, including adoption of future versions of either license, will be determined through the project's governance process as outlined in GOVERNANCE.md.
+---
 
+## 📜 What’s Inside
 
-Installation
-[Installation instructions]
+- **📘 The Constitution**: Full text in `THE BREAD STANDARD CONSTITUTION.pdf`
+- **🗳️ Trust Point System**: A participatory democracy model balancing voice, expertise, and equity
+- **💰 Bread Standard**: A values-based unit of economic measurement tied to real nourishment
+- **🌐 Federated Governance**: Local-first with planetary coordination
+- **🧩 Validator Councils**: Knowledge-based governance by domain
+- **🛡️ Integrity Safeguards**: Systems to prevent corruption and ensure accountability
 
-Usage
-[Usage examples]
+---
 
-Contributing
-[Contribution guidelines]
+## 🤝 Join the Movement
 
+If you are part of or aligned with:
+- 🌾 Regenerative food systems
+- 🧠 Neurodiversity or disability justice
+- 🛠️ Open governance/DAO initiatives
+- 🧘 Post-growth, post-capitalist thinkers
+- 💬 Community builders or educators
+- ⚖️ Rights-based liberation movements
 
-Contact
-[Contact information]
-https://discord.gg/YVtWjvxwpf
+…this work may be yours too.
+
+---
+
+## 📢 Engage
+
+- [🌍 Live Discord Community](https://discord.gg/YVtWjvxwpf)
+- 🌐 [Your Website Coming Soon]
+- GitHub Discussions (activate tab above)
+- Coming soon: governance simulation + prototyping repo
+
+---
+
+## ⚖️ Licensing
+
+This project is dual-licensed:
+
+- **📜 Constitution and docs**: [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- **🧠 Software components**: [GNU Affero General Public License v3.0 (AGPL-3.0)](https://www.gnu.org/licenses/agpl-3.0.html)
+
+> Attribution and remix encouraged. Commercial exploitation not the point.
+
+---
+
+## 📥 Want to Contribute?
+
+1. Start with `CONTRIBUTING.md`
+2. Join the discussion on Discord or GitHub
+3. Fork the repo and propose edits
+4. Or adapt for your community using our open framework
+
+---
+
+## 💬 Questions?
+
+Reach out in [Discord](https://discord.gg/YVtWjvxwpf) or open an issue here. We welcome all forms of feedback — especially from:
+- Sensitivity readers
+- Cultural stewards
+- System tinkerers
+- Future ancestors
