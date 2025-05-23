@@ -48,7 +48,7 @@ If you are part of or aligned with:
 ## 📢 Engage
 
 - [🌍 Live Discord Community](https://discord.gg/YVtWjvxwpf)
-- 🌐 [Your Website Coming Soon]
+- 🌐 [Bread Standard](https://www.breadstandard.com)
 - GitHub Discussions (activate tab above)
 - Coming soon: governance simulation + prototyping repo
 
