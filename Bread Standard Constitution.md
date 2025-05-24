@@ -163,7 +163,7 @@ These councils shall operate through transparent exchanges where trust points ar
 * 5-year terms.   
 * For elected positions within validator councils, a pattern of one term of service followed by at least two terms of ineligibility shall apply, though service in different capacities remains permitted during ineligibility periods.   
 * Elected officials cannot serve different positions on the same panel at the same time, nor may they serve terms on the same authority panel consecutively with any other position on the same panel.  
-* Elected officials serving on judgeship panels must meet certain standards including trust point investments in oder to serve on a panel. Judge panels serve as administrative officers for jury-deliberated decisions.  
+* Elected officials serving on judgeship panels must meet certain standards including trust point investments in order to serve on a panel. Judge panels serve as administrative officers for jury-deliberated decisions.  
 * Other standards as determined by the governance application based on the need for a particular leadership panel role, the criteria of that role, the responsibilities of that role, et cetera.
 
 ### Section 5: Validator Responsibilities
